@@ -1,8 +1,8 @@
 {
     "private": true,
     "type": "module",
-    "scripts": {
-    },
+    "scripts": {},
     "devDependencies": {
+        "tailwindcss": "^3.4.13"
     }
 }

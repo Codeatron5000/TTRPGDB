@@ -44,6 +44,13 @@
             "@php artisan key:generate --ansi",
             "@php -r \"file_exists('database/database.sqlite') || touch('database/database.sqlite');\"",
             "@php artisan migrate --graceful --ansi"
+        ],
+        "css": [
+            "npx tailwindcss -i ./resources/css/app.css -o ./public/app.css"
+        ],
+        "css-watch": [
+            "Composer\\Config::disableProcessTimeout",
+            "npx tailwindcss -i ./resources/css/app.css -o ./public/app.css -w"
         ]
     },
     "extra": {
