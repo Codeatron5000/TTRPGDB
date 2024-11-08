@@ -13,5 +13,7 @@
         <!-- Styles -->
         <link href="/app.css" rel="stylesheet" />
     </head>
-    {{ $slot }}
+    <body class="antialiased">
+        {{ $slot }}
+    </body>
 </html>

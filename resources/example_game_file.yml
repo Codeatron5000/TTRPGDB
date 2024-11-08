@@ -1,0 +1,30 @@
+name: TTRPG name # Required
+
+other_names:
+  - Another name
+
+description: # Required
+  A description highlighting the core themes of the game
+
+System: D20
+
+Setting: Medieval Fantasy
+
+Genre: Action
+
+Tags:
+  - OSR
+  - GMless
+
+foundation: Zelda
+
+inspired_by:
+  - Anime
+
+Equipment:
+  - Polyhedral dice
+  - Pen and paper
+
+character_options:
+  kind: Vampires
+  role: Adventurers
