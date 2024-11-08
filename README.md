@@ -16,7 +16,15 @@ Filter options include:
 - Player options (e.g. Vampires, Heroes, Gods)
 - And more...
 
-### Definition
+## Setting up
+
+To run TTRPGDB locally you must have docker installed.
+Once you have docker installed you should open up a terminal and navigate to
+this directory.
+Then run `./vendor/bin/sail up`. The first time this will take a few minutes
+as it installs all the dependencies. Subsequent times it will be much quicker.
+
+## Definition
 
 A Roleplaying Game must follow these definitions to be included in the database
 
