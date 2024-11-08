@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 3.75rem; line-height: 1; margin-bottom: 1rem; font-style: italic; color: rgb(45 212 191);">TTRPGDB</p>
+# TTRPGDB
 
 ## About TTRPGDB
 
